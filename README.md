@@ -1,6 +1,6 @@
 # spring-microservices-boilerplate
 
-[中文版](README_zh.md)
+
 
 ## <a name="index"></a>Index
 
@@ -22,7 +22,7 @@ And build with:
 - [Spring Security](http://projects.spring.io/spring-security/)
 - [Spring Data JPA](http://projects.spring.io/spring-data-jpa/)
 
-And use [specification-arg-resolver](https://github.com/tkaczmarzyk/specification-arg-resolver) for filter.
+
 
 > NOTE If you need RSA sign check, you can use `validateWithSignCheck` of [ValidateHelper](src/main/java/com/saintdan/framework/component/ValidateHelper.java)
 
@@ -82,8 +82,8 @@ and result is:
 
 **[MIT](http://opensource.org/licenses/MIT)**
 
-Copyright (c) since 2015 saintdan
+
 
 ## <a name="version"></a>Version History [[TOP]](#index)
 
-[Version history is here. ;)](VERSION_HISTORY.md)# CRM_Accounting_HR
+
